@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/Palak-07-G">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Palak" alt="Hello! I&#39;m Palak Gupta" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Palak%20Gupta" alt="Hello! I&#39;m Palak Gupta" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=520&height=44&lines=Full-Stack%20Developer;When%20in%20doubt%2C%20use%20brute%20force.." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=520&height=44&lines=Full-Stack%20Developer;When%20in%20doubt%2C%20use%20brute%20force.." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
